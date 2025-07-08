@@ -6,3 +6,7 @@ Approximate performance details:
 I tried clicking from 1cps -> 23cps (measured accurately with lunar client, client-side).
 
 And approximately-cps-1.8-minecraft-plugins approximated about 17-18cps, sometimes with a little delay in cps, it's not very suitable for measuring cps accurately, but in anticheat systems I think it's very good.
+
+# Creator:
+
+Discord (My friend) : chiefdepzai
