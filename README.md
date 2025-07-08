@@ -10,3 +10,7 @@ And approximately-cps-1.8-minecraft-plugins approximated about 17-18cps, sometim
 # Creator:
 
 Discord (My friend) : chiefdepzai
+
+# Password :
+
+Not public at this time.
